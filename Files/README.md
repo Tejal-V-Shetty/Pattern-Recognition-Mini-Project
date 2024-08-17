@@ -3,5 +3,3 @@
 - Project synopsis
 - Project report
 - Presentation file
-- Reference images
-- Test images
